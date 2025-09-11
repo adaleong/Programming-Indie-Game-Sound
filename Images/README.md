@@ -1,5 +1,5 @@
 # Unity Screenshot
-![alt text](/Users/adaleong/Documents/GitHub/Programming-Indie-Game-Sound/Images/Screenshot 2025-09-11 at 5.11.09 PM.png)
+![screenshot](/Users/adaleong/Documents/GitHub/Programming-Indie-Game-Sound/Images/Screenshot 2025-09-11 at 5.11.09 PM.png)
 
 # VS Code Screenshot
 /Users/adaleong/Documents/GitHub/Programming-Indie-Game-Sound/Images/Screenshot 2025-09-11 at 5.11.18 PM.png
