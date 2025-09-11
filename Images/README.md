@@ -1,5 +1,5 @@
 # Unity Screenshot
-<img src="Images/Screenshot 2025-09-11 at 5.11.09 PM.png" width="128"/>
+<img src="https://github.com/adaleong/Programming-Indie-Game-Sound/blob/main/Images/Screenshot%202025-09-11%20at%205.11.09%E2%80%AFPM.png?raw=true"
 
 # VS Code Screenshot
 /Users/adaleong/Documents/GitHub/Programming-Indie-Game-Sound/Images/Screenshot 2025-09-11 at 5.11.18 PM.png
